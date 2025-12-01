@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://65.0.135.179:8081/repository/airtel-pm/</url>
+	      <url>http://65.0.135.179:8081/repository/airtel-pm-r/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://65.0.135.179:8081/repository/airtel-pm-r/</url>
+	      <url>http://65.0.135.179:8081/repository/airtel-pm/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
