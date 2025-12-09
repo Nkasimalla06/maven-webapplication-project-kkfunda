@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK FUNDA DEVOPS AWS Portal 🚀</h1>
+    <h1>🚀 Welcome to KK FUNDA DEVOPS AWS Portal this is new batch 7 </h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
