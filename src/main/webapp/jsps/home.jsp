@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1> Welcome to KK Prahsnath FUNDA DEVOPS AWS Portal Batch-7 FOR github-webhook for the test scm poll </h1>
+    <h1> Welcome to KK Prahsnath FUNDA DEVOPS AWS Portal Batch-7 FOR github-webhook test </h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
