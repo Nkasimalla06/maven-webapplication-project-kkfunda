@@ -21,7 +21,7 @@
 		<spring.version>5.3.34</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://43.205.207.123:9000/</sonar.host.url>
+		<sonar.host.url>http://13.232.19.0:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>9700172096@Nn</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://52.66.19.38:8081/repository/airtel-rels/</url>
+	      <url>http://13.201.12.58:8081/repository/airtel-rels/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.233.231.110:8081/repository/airtel-snap/</url>
+	      <url>http://13.201.12.58:8081/repository/airtel-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
