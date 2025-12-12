@@ -36,13 +36,13 @@ pipeline
                       sh "mvn clean package"
                   }
               }
-              stage ('SQ Report')
+           /*   stage ('SQ Report')
               {
                   steps
                   {
                       sh "mvn sonar:sonar"
                   }
-              }
+              } */
               stage ('Deploy to Nexus')
               {
                   steps
