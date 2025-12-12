@@ -58,7 +58,7 @@ pipeline
 
       curl -u navin:9700172096@Nn \
 --upload-file /var/lib/jenkins/workspace/airtel-deploy/target/maven-web-application.war \
-"http://43.204.234.47:8080/manager/text/deploy?path=/maven-web-application&update=true"
+"http://13.203.217.26:8080/manager/text/deploy?path=/maven-web-application&update=true"
           
         """
               }
